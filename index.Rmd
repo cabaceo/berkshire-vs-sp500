@@ -2,7 +2,7 @@
 title: "Berkshire's Performance vs. the S&P 500"
 output: 
   flexdashboard::flex_dashboard:
-    social: [ "twitter", "facebook", "menu", "google-plus", "linkedin", "pinterest"]
+    social: ["menu"]
     vertical_layout: fill
 ---
 
